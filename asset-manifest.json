@@ -1,7 +1,12 @@
 {
-  "main.css": "static/css/main.c17080f1.css",
-  "main.css.map": "static/css/main.c17080f1.css.map",
-  "main.js": "static/js/main.2ad54b83.js",
-  "main.js.map": "static/js/main.2ad54b83.js.map",
-  "static\\media\\logo.svg": "static/media/logo.5d5d9eef.svg"
+  "main.css": "static/css/main.b9b02996.css",
+  "main.css.map": "static/css/main.b9b02996.css.map",
+  "main.js": "static/js/main.f6b17a77.js",
+  "main.js.map": "static/js/main.f6b17a77.js.map",
+  "static\\media\\globe-c.png": "static/media/globe-c.db7bd8c2.png",
+  "static\\media\\lamudi-c.png": "static/media/lamudi-c.857632c8.png",
+  "static\\media\\myprop-c.png": "static/media/myprop-c.65d51eaf.png",
+  "static\\media\\simpliphpy-c.png": "static/media/simpliphpy-c.38417730.png",
+  "static\\media\\temp-logo.svg": "static/media/temp-logo.7d6d5769.svg",
+  "static\\media\\xend-c.png": "static/media/xend-c.0dfd813e.png"
 }
