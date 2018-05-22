@@ -21,6 +21,16 @@ $lightgrey: #dde0e2;
   }
 }
 
+.up {
+  border-radius: 50%;
+  background-color: $blackish;
+  padding: 10px;
+  color: #fff;
+}
+
+.z-index {
+  z-index: 1;
+}
 
 header {
   padding: 50px 0 0 0;
@@ -152,6 +162,7 @@ section.hero {
       text-decoration: none !important;
       color: $blackish;
       outline: none;
+      transition: .2s;
     }
   }
   

@@ -3,8 +3,8 @@ import React, { Component } from 'react';
 class Contact extends Component {
 	render() {
 		return (
-			<div id='contact' className='pb-5'>
-				<section className='contact pb-5'>
+			<div id='contact'>
+				<section className='contact'>
 					<h1> contact </h1>
 					<div className='row'>
 						<div className=' col-lg-12 col-12'>

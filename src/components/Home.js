@@ -13,8 +13,8 @@ export default class Home extends React.Component {
     return (
       <div className='container'>
         {/* <Header /> */}
-        <ScrollToTop showUnder={160}>
-          <span>UP</span>
+        <ScrollToTop style={{ zIndex: 1 }} showUnder={600}>
+          <span className='up'>UP</span>
         </ScrollToTop>
         <div className="wrapper">
           <Header />
