@@ -2,13 +2,13 @@ const craft = [
 	{
 		image: require('../images/lamudi-c.png'),
 		// imageHover: require('../images/lamudi-c.png'),
-		link: 'https://www.google.com.ph/',
+		link: '#exampleModal1',
 		style: {background: '#4674d0'},
 		// style1: {background: '#4674d0'}
 	},
 	{
 		image: require('../images/myprop-c.png'),
-		link: 'https://www.google.com.ph/',
+		link: '#exampleModal2',
 		style: {background: '#ffffff'},
 	},
 	{
