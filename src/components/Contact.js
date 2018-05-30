@@ -15,7 +15,7 @@ class Contact extends Component {
 						<ul className='pl-0'>
 							<li> grab.rgba@gmail.com </li>
 							{/* <li> | </li> */}
-							<li> +63 916 269 2655 </li>
+							<li> +63 916 269 2655 ~ </li>
 						</ul>
 					</div>
 					{/* <p className='contacts'> +63 916 369 2655 <br/>
