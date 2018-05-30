@@ -7,7 +7,7 @@ class Header extends Component {
 		return (
 			<div id='header'>
 				<header>
-					<ul className='nav justiy-content-end'>
+					<ul className='nav justiy-content-end '>
 						<li className='nav-item mr-auto'>
 							<AnchorLink href='#header' className='navbar-brand'>
 								<img src={logo} className='App-logo' alt='logo' />
