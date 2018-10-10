@@ -28,26 +28,12 @@ class Craft extends Component {
 
 class CraftCard extends Component {
 
-	// state = { imgSrc: (this.props.craftLogo) };
-  // setImageSource(src) { this.setState({ imgSrc: src}); }
-
-	// onMouseOver = () => {
-	// 	this.setState(this.props.craftLogoHover)
-	// }
-
-	// onMouseOut = () => {
-	// 	this.setState(this.props.craftLogo)
-	// }
-
 	render() {
 		return (
 			<div className="col-sm-6">
 				<a href={this.props.craftLink} data-toggle="modal" data-target={this.props.craftLink}>
 					<div className="card" style={this.props.craftStyle}>
 						<div className="card-img text-center">
-							{/* onMouseOver={() => this.setImageSource(this.props.craftLogoHover)}
-							onMouseOut={() => this.setImageSource(this.props.craftLogo)} */}
-							{/* <img className="img-responsive " src={this.state.imgSrc} alt=""/> */}
 							<img className="img-responsive " src={this.props.craftLogo} alt=""/>
 						</div>
 					</div>
@@ -56,17 +42,17 @@ class CraftCard extends Component {
 					<div className="modal-dialog" role="document">
 						<div className="modal-content">
 							<div className="modal-header">
-								<h5 className="modal-title" id="exampleModalLabel">Modal title</h5>
+								<h5 className="modal-title w-100 text-center" id="exampleModalLabel">Modal title</h5>
 								<button type="button" className="close" data-dismiss="modal" aria-label="Close">
 									<span aria-hidden="true">&times;</span>
 								</button>
 							</div>
 							<div className="modal-body">
-								...
-							</div>
-							<div className="modal-footer">
-								<button type="button" className="btn btn-secondary" data-dismiss="modal">Close</button>
-								<button type="button" className="btn btn-primary">Save changes</button>
+								<div className="wrapper">
+									<div className="container">
+										test
+									</div>
+								</div>
 							</div>
 						</div>
 					</div>
@@ -82,10 +68,6 @@ class CraftCard extends Component {
 							</div>
 							<div className="modal-body">
 								...
-							</div>
-							<div className="modal-footer">
-								<button type="button" className="btn btn-secondary" data-dismiss="modal">Close</button>
-								<button type="button" className="btn btn-primary">Save changes</button>
 							</div>
 						</div>
 					</div>

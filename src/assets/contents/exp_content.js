@@ -1,7 +1,7 @@
 const exp = [
 	{
 		position: 'web designer',
-		date: '(may 2017 - present)',
+		date: '(may 2017 - sep 2018)',
 		company: 'lamudi philippines'
 	},
 	{

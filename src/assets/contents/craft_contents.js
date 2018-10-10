@@ -1,6 +1,7 @@
 const craft = [
 	{
-		image: require('../images/lamudi-c.png'),
+		// image: require('../images/lamudi-c.png'),
+		image: require('../images/lamudi.svg'),
 		// imageHover: require('../images/lamudi-c.png'),
 		link: '#exampleModal1',
 		style: {background: '#4674d0'},

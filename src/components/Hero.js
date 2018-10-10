@@ -10,8 +10,7 @@ class Hero extends Component {
 						<div className="col-lg-8 col-12">
 							<h2> 
 								A Front-End Developer and 
-								UI Designer based in Manila 
-								currently working for Lamudi. 
+								UI Designer based in Manila.
 							</h2>
 						</div>
 					</div>

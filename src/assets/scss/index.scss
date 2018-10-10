@@ -130,7 +130,20 @@ section.hero {
   //    background-color: red;
   //  }
  }
+ .modal-content {
+   border: none;
+   border-radius: 0;
+   margin: 0;
+ }
+ .modal-dialog { 
+    max-width: 100%;
+    margin: 0;
+  }
+  #exampleModal1 {
+    padding-right: 0 !important;
+  } 
 }
+
 
 .contact {
   h2 {
