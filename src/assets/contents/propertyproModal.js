@@ -18,9 +18,7 @@ class propertyproModal extends Component {
 						<div className="modal-body">
 							<div className="container">
 								<div className="row">
-									{/* <div className={"col" + " " + "text-center"}> */}
-									<div className="col">
-									<div className={"text-sm-center" + " " + "wrapper"}>
+									<div className={"col" + " " + "text-center"}>
 										<img src={Images.propertypro.pp1} />
 										<img src={Images.propertypro.pp2} />
 										<img src={Images.propertypro.pp3} />
@@ -30,10 +28,9 @@ class propertyproModal extends Component {
 										<img src={Images.propertypro.pp7} />
 										<img src={Images.propertypro.pp8} />
 										<img src={Images.propertypro.pp9} />
-										</div>
-										</div>
 									</div>
 								</div>
+							</div>
 						</div>
 					</div>
 				</div>
