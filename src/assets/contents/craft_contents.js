@@ -1,30 +1,32 @@
 const craft = [
 	{
-		// image: require('../images/lamudi-c.png'),
+		image: require('../images/propertypro.svg'),
+		link: '#property_pro',
+		style: {background: '#8404dc'},
+	},
+	{
 		image: require('../images/lamudi.svg'),
-		// imageHover: require('../images/lamudi-c.png'),
-		link: '#exampleModal1',
+		link: '#lamudi',
 		style: {background: '#4674d0'},
-		// style1: {background: '#4674d0'}
 	},
 	{
-		image: require('../images/myprop-c.png'),
-		link: '#exampleModal2',
-		style: {background: '#ffffff'},
+		image: require('../images/myproperty.svg'),
+		link: '#exampleModal1',
+		style: {background: '#fff'},
 	},
 	{
-		image: require('../images/xend-c.png'),
-		link: 'https://www.google.com.ph/',
-		style: {background: '#08c0de'},
+		image: require('../images/xend.svg'),
+		link: '#exampleModal1',
+		style: {background: '#08C0DE'},
 	},
 	{
-		image: require('../images/simpliphpy-c.png'),
-		link: 'https://www.google.com.ph/',
-		style: {background: '#f15a29'},
+		image: require('../images/simpliphpy.svg'),
+		link: '#exampleModal1',
+		style: {background: '#F15928'},
 	},
 	{
-		image: require('../images/globe-c.png'),
-		link: 'https://www.google.com.ph/',
+		image: require('../images/globe.svg'),
+		link: '#exampleModal1',
 		style: {background: '#0d47a1'},
 	},
 ]

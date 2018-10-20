@@ -12,12 +12,11 @@ $lightgrey: #dde0e2;
 @media (min-width: 1200px)
 {
   .container {
-      max-width: 960px;
+    max-width: 960px;
   }
   .wrapper {
     max-width: 768px;
-    margin-right: auto;
-    margin-left: auto;
+    margin:auto;
   }
 }
 
@@ -87,6 +86,32 @@ section.hero {
   }
 }
 
+.modal-content {
+  border: none;
+  border-radius: 0;
+  margin: 0;
+  .close {
+    opacity: 1;
+    outline: none;
+  }
+ }
+.modal-dialog { 
+   max-width: 100%;
+   margin: 0;
+ }
+ .modal-body {
+  max-height: 90vh;
+  overflow-y: auto;
+  img {
+    padding: 1.5em;
+  }
+ }
+ .modal-back {
+   width: 16px;
+ }
+ #exampleModal1 {
+   padding-right: 0 !important;
+ }
 
 .exp, .craft, .contact {
   h1 {
@@ -129,19 +154,10 @@ section.hero {
   //  & :hover {
   //    background-color: red;
   //  }
- }
- .modal-content {
-   border: none;
-   border-radius: 0;
-   margin: 0;
- }
- .modal-dialog { 
-    max-width: 100%;
-    margin: 0;
   }
-  #exampleModal1 {
-    padding-right: 0 !important;
-  } 
+  .size-def {
+    width: 30%;
+  }
 }
 
 

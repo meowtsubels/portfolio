@@ -7,8 +7,7 @@
     max-width: 960px; }
   .wrapper {
     max-width: 768px;
-    margin-right: auto;
-    margin-left: auto; } }
+    margin: auto; } }
 
 .up {
   border-radius: 50%;
@@ -56,6 +55,30 @@ section.hero {
   section.hero h2 {
     font-weight: 100; }
 
+.modal-content {
+  border: none;
+  border-radius: 0;
+  margin: 0; }
+  .modal-content .close {
+    opacity: 1;
+    outline: none; }
+
+.modal-dialog {
+  max-width: 100%;
+  margin: 0; }
+
+.modal-body {
+  max-height: 90vh;
+  overflow-y: auto; }
+  .modal-body img {
+    padding: 1.5em; }
+
+.modal-back {
+  width: 16px; }
+
+#exampleModal1 {
+  padding-right: 0 !important; }
+
 .exp h1, .craft h1, .contact h1 {
   margin-bottom: 3.75rem; }
 
@@ -86,17 +109,8 @@ section.hero {
   border-radius: 0;
   background-color: #f0f0f0; }
 
-.craft .modal-content {
-  border: none;
-  border-radius: 0;
-  margin: 0; }
-
-.craft .modal-dialog {
-  max-width: 100%;
-  margin: 0; }
-
-.craft #exampleModal1 {
-  padding-right: 0 !important; }
+.craft .size-def {
+  width: 30%; }
 
 .contact h2 {
   font-weight: 100; }
