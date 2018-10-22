@@ -20,7 +20,8 @@ class xendModal extends Component {
 								<div className="container">
 									<div className="row">
 										<div className="col">
-											
+										
+											test
 										</div>
 									</div>
 								</div>
