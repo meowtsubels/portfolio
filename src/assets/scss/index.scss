@@ -54,17 +54,6 @@ $lightgrey: #dde0e2;
   }
 }
 
-
-// @media (min-width: 992px) {
-//   .modals > .propertyProModal {
-//     .modal-body img {
-//       padding: 1.5em !important;
-//       max-width: 50% !important;
-//       height: auto !important;
-//     }
-//   }
-// }
-
 .up {
   border-radius: 50%;
   background-color: $blackish;
@@ -133,7 +122,11 @@ section.hero {
   }
 }
 .modals > .propertyProModal,
-.modals > .lamudiModal {
+.modals > .lamudiModal,
+.modals > .mypropertyModal,
+.modals > .xendModal,
+.modals > .simpliphpyModal,
+.modals > .globeModal {
   .modal-content {
     border: none;
     border-radius: 0;
@@ -161,6 +154,17 @@ section.hero {
     padding: 1.5em;
     max-width: 100%;
     height: auto;
+  }
+}
+
+.modals > .lamudiModal {
+  ul > li {
+    list-style-type: none;
+    text-align: left;
+    padding: 0;
+    a {
+      font-size: 11px;
+    }
   }
 }
 

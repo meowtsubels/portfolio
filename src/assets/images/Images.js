@@ -10,6 +10,20 @@ const images = {
 		pp7: require('../images/pp-7.png'),
 		pp8: require('../images/pp-8.png'),
 		pp9: require('../images/pp-9.png')
+	},
+	lamudi: {
+		lmd1: require('../images/lmd-nl-1.png'),
+		lmd2: require('../images/lmd-nl-2.png'),
+		mag1: require('../images/lmd-mag-1.png'),
+		mag2: require('../images/lmd-mag-2.png'),
+		mag3: require('../images/lmd-mag-3.png'),
+		teaser1: require('../images/lmd-teaser-1.jpg'),
+	},
+	myproperty: {
+		myprop1: require('../images/myprop-nl-1.png'),
+		myprop2: require('../images/myprop-nl-2.png'),
+		myprop3: require('../images/myprop-nl-3.png'),
+		myprop4: require('../images/myprop-nl-4.png'),
 	}
 };
 

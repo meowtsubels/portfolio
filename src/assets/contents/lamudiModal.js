@@ -19,11 +19,75 @@ class lamudiModal extends Component {
 							<div className="modal-body">
 								<div className="container">
 									<div className="row">
-										<div className={"col" + " " + "text-center"}>
-												test
+										<div className={"col-md-6" + " " + "text-sm-center"}>
+											<img className="img-fluid" src={Images.lamudi.lmd1} />
+										</div>
+										<div className={"col-md-6" + " " + "text-sm-center"}>
+											<img className={"img-fluid" + " " + "pb-5"} src={Images.lamudi.lmd2}/>
+											<div className="row">
+												<div className="col">
+													<img className={"img-fluid" + " " + "pb-5"} src={Images.lamudi.mag1}/>
+													<img className={"img-fluid" + " " + "pb-5"} src={Images.lamudi.mag2}/>
+													<img className={"img-fluid" + " " + "pb-5"} src={Images.lamudi.mag3}/>
+													<img className={"img-fluid" + " " + "pb-5"} src={Images.lamudi.teaser1}/>
+													{/* insert links here */}	
+													<ul>
+														<li>
+															<a href="https://www.lamudi.com.ph/all-events/">
+																https://www.lamudi.com.ph/all-events/
+															</a>
+														</li>
+														<li>
+															<a href="https://www.lamudi.com.ph/events/">
+																https://www.lamudi.com.ph/events/
+															</a>
+														</li>
+														<li>
+															<a href="https://www.lamudi.com.ph/housing_fair/">
+																https://www.lamudi.com.ph/housing_fair/
+															</a>
+														</li>
+														<li>
+															<a href="https://www.lamudi.com.ph/outlook-real-estate-market-trends-2017/">
+																https://www.lamudi.com.ph/outlook-real-estate-market-trends-2017/
+															</a>
+														</li>
+														<li>
+															<a href="https://www.lamudi.com.ph/careers/">
+																https://www.lamudi.com.ph/careers/
+															</a>
+														</li>
+														<li>
+															<a href="https://www.lamudi.com.ph/journal/how-to-apply-for-a-pag-ibig-housing-loan/">
+																https://www.lamudi.com.ph/journal/how-to-apply-for-a-pag-ibig-housing-loan/
+															</a>
+														</li>
+														<li>
+															<a href="https://www.lamudi.com.ph/comprehensive-guide-pagibig-housing-loan/">
+																https://www.lamudi.com.ph/comprehensive-guide-pagibig-housing-loan/
+															</a>
+														</li>
+														<li>
+															<a href="https://www.lamudi.com.ph/complete-condo-buying-guide/">
+																https://www.lamudi.com.ph/complete-condo-buying-guide/
+															</a>
+														</li>
+														<li>
+															<a href="https://www.lamudi.co.id/panduan-area-properti-kota-bandung/">
+																https://www.lamudi.co.id/panduan-area-properti-kota-bandung/
+															</a>
+														</li>
+														<li>
+															<a href="https://www.lamudi.co.id/panduan-area-properti/">
+																https://www.lamudi.co.id/panduan-area-properti/
+															</a>
+														</li>
+													</ul>
+												</div>
 											</div>
 										</div>
 									</div>
+								</div>
 							</div>
 						</div>
 					</div>

@@ -11,22 +11,22 @@ const craft = [
 	},
 	{
 		image: require('../images/myproperty.svg'),
-		link: '#exampleModal1',
+		link: '#myproperty',
 		style: {background: '#fff'},
 	},
 	{
 		image: require('../images/xend.svg'),
-		link: '#exampleModal1',
+		link: '#xend',
 		style: {background: '#08C0DE'},
 	},
 	{
 		image: require('../images/simpliphpy.svg'),
-		link: '#exampleModal1',
+		link: '#simpliphpy',
 		style: {background: '#F15928'},
 	},
 	{
 		image: require('../images/globe.svg'),
-		link: '#exampleModal1',
+		link: '#globe',
 		style: {background: '#0d47a1'},
 	},
 ]
