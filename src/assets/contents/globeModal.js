@@ -9,7 +9,7 @@ class globeModal extends Component {
 					<div className="modal-dialog" role="document">
 						<div className="modal-content">
 							<div className="modal-header">
-								<h5 className="modal-title w-100 text-center" id="exampleModalLabel">Property Pro</h5>
+								<h5 className="modal-title w-100 text-center" id="exampleModalLabel">Globe</h5>
 								<button type="button" className={"close" + " " + "position-absolute"} data-dismiss="modal" aria-label="Close">
 									<span aria-hidden="true">
 										<img className="modal-back" src={Images.backIcon} />
