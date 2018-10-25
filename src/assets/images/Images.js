@@ -24,6 +24,21 @@ const images = {
 		myprop2: require('../images/myprop-nl-2.png'),
 		myprop3: require('../images/myprop-nl-3.png'),
 		myprop4: require('../images/myprop-nl-4.png'),
+	},
+	xend: {
+		xend1x: require('../images/_xend-1x.png'),
+		xend2x: require('../images/_xend-2x.png'),
+		xend3x: require('../images/_xend-3x.png'),
+		xend4x: require('../images/_xend-4x.png'),
+		xend5x: require('../images/_xend-5x.png'),
+		xend6x: require('../images/_xend-6x.png'),
+		xend7x: require('../images/_xend-7x.png'),
+		xend8x: require('../images/_xend-8x.png'),
+
+		xend1n: require('../images/_xend-1n.png'),
+		xend2n: require('../images/_xend-2n.png'),
+		xend3n: require('../images/_xend-3n.png'),
+		xend4n: require('../images/_xend-4n.png'),		
 	}
 };
 

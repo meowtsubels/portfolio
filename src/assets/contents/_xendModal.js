@@ -20,8 +20,19 @@ class xendModal extends Component {
 								<div className="container">
 									<div className="row">
 										<div className="col">
-										
-											test
+											<img className={"img-fluid" + " " + "pb-5"} src={Images.xend.xend1x}/>
+											<img className={"img-fluid" + " " + "pb-5"} src={Images.xend.xend2x}/>
+											<img className={"img-fluid" + " " + "pb-5"} src={Images.xend.xend3x}/>
+											<img className={"img-fluid" + " " + "pb-5"} src={Images.xend.xend4x}/>
+											<img className={"img-fluid" + " " + "pb-5"} src={Images.xend.xend5x}/>
+											<img className={"img-fluid" + " " + "pb-5"} src={Images.xend.xend6x}/>
+											<img className={"img-fluid" + " " + "pb-5"} src={Images.xend.xend7x}/>
+											<img className={"img-fluid" + " " + "pb-5"} src={Images.xend.xend8x}/>
+
+											<img className={"img-fluid" + " " + "pb-5"} src={Images.xend.xend1n}/>
+											<img className={"img-fluid" + " " + "pb-5"} src={Images.xend.xend2n}/>
+											<img className={"img-fluid" + " " + "pb-5"} src={Images.xend.xend3n}/>
+											<img className={"img-fluid" + " " + "pb-5"} src={Images.xend.xend4n}/>
 										</div>
 									</div>
 								</div>
