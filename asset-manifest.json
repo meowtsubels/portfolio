@@ -1,7 +1,7 @@
 {
-  "main.css": "/portfolio/static/css/main.6fe5a0e7.chunk.css",
-  "main.js": "/portfolio/static/js/main.3d0f300b.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.3d0f300b.chunk.js.map",
+  "main.css": "/portfolio/static/css/main.5091ac2a.chunk.css",
+  "main.js": "/portfolio/static/js/main.de74d1d4.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.de74d1d4.chunk.js.map",
   "static/js/1.56377a75.chunk.js": "/portfolio/static/js/1.56377a75.chunk.js",
   "static/js/1.56377a75.chunk.js.map": "/portfolio/static/js/1.56377a75.chunk.js.map",
   "runtime~main.js": "/portfolio/static/js/runtime~main.ee2a1003.js",
@@ -39,14 +39,15 @@
   "static/media/mxend-2n.png": "/portfolio/static/media/mxend-2n.3968dfa8.png",
   "static/media/mxend-3n.png": "/portfolio/static/media/mxend-3n.27f4bc54.png",
   "static/media/mxend-4n.png": "/portfolio/static/media/mxend-4n.0d8cdf36.png",
+  "static/media/simpliphpy.jpg": "/portfolio/static/media/simpliphpy.ac45de6a.jpg",
   "static/media/propertypro.svg": "/portfolio/static/media/propertypro.a57b9afe.svg",
   "static/media/lamudi.svg": "/portfolio/static/media/lamudi.b7759b0c.svg",
   "static/media/myproperty.svg": "/portfolio/static/media/myproperty.b9884889.svg",
   "static/media/xend.svg": "/portfolio/static/media/xend.c92ee7f3.svg",
   "static/media/simpliphpy.svg": "/portfolio/static/media/simpliphpy.099c8318.svg",
   "static/media/globe.svg": "/portfolio/static/media/globe.54190f7a.svg",
-  "static/css/main.6fe5a0e7.chunk.css.map": "/portfolio/static/css/main.6fe5a0e7.chunk.css.map",
+  "static/css/main.5091ac2a.chunk.css.map": "/portfolio/static/css/main.5091ac2a.chunk.css.map",
   "index.html": "/portfolio/index.html",
-  "precache-manifest.1e19c62e1b1894bc86ab6a9bd55bd100.js": "/portfolio/precache-manifest.1e19c62e1b1894bc86ab6a9bd55bd100.js",
+  "precache-manifest.b2c83d3a600f3bfc7abf0b981993d898.js": "/portfolio/precache-manifest.b2c83d3a600f3bfc7abf0b981993d898.js",
   "service-worker.js": "/portfolio/service-worker.js"
 }
