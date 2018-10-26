@@ -76,6 +76,14 @@ section.hero {
   section.hero h2 {
     font-weight: 100; }
 
+.modals > .propertyProModal .modal-body,
+.modals > .lamudiModal .modal-body,
+.modals > .mypropertyModal .modal-body,
+.modals > .xendModal .modal-body,
+.modals > .simpliphpyModal .modal-body,
+.modals > .globeModal .modal-body {
+  padding-bottom: 3em; }
+
 .modals > .propertyProModal .modal-content,
 .modals > .lamudiModal .modal-content,
 .modals > .mypropertyModal .modal-content,
