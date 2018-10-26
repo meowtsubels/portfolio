@@ -20,7 +20,7 @@ class simpliphpyModal extends Component {
 								<div className="container">
 									<div className="row">
 										<div className="col">
-											
+											<img className={"img-fluid" + " " + "pb-5"} src={Images.simpliphpy.simph} />
 										</div>
 									</div>
 								</div>

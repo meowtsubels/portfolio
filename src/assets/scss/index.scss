@@ -127,6 +127,9 @@ section.hero {
 .modals > .xendModal,
 .modals > .simpliphpyModal,
 .modals > .globeModal {
+  .modal-body {
+    padding-bottom: 3em;
+  }
   .modal-content {
     border: none;
     border-radius: 0;
