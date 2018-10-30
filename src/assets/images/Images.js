@@ -42,6 +42,11 @@ const images = {
 	},
 	simpliphpy: {
 		simph: require('../images/simpliphpy.jpg'),
+	},
+	globe: {
+		g1: require('../images/globe-1.jpg'),
+		g2: require('../images/globe-2.jpg'),
+		g3: require('../images/globe-3.jpg'),
 	}
 };
 

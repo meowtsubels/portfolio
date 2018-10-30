@@ -9,7 +9,7 @@ class globeModal extends Component {
 					<div className="modal-dialog" role="document">
 						<div className="modal-content">
 							<div className="modal-header">
-								<h5 className="modal-title w-100 text-center" id="exampleModalLabel">test</h5>
+								<h5 className="modal-title w-100 text-center" id="exampleModalLabel">Globe</h5>
 								<button type="button" className={"close" + " " + "position-absolute"} data-dismiss="modal" aria-label="Close">
 									<span aria-hidden="true">
 										<img className="modal-back" src={Images.backIcon} />
@@ -19,8 +19,10 @@ class globeModal extends Component {
 							<div className="modal-body">
 								<div className="container">
 									<div className="row">
-										<div className="col">
-											
+										<div className={"col" + " " + "text-sm-center"}>
+											<img className={"img-fluid" + " " + "pb-5"} src={Images.globe.g1}/>
+											<img className={"img-fluid" + " " + "pb-5"} src={Images.globe.g2}/>
+											<img className={"img-fluid" + " " + "pb-5"} src={Images.globe.g3}/>
 										</div>
 									</div>
 								</div>

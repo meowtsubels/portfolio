@@ -33,22 +33,22 @@ class lamudiModal extends Component {
 													{/* insert links here */}	
 													<ul>
 														<li>
-															<a href="https://www.lamudi.com.ph/all-events/">
+															<a href="https://www.lamudi.com.ph/all-events/" target="_blank">
 																https://www.lamudi.com.ph/all-events/
 															</a>
 														</li>
 														<li>
-															<a href="https://www.lamudi.com.ph/events/">
+															<a href="https://www.lamudi.com.ph/events/" target="_blank">
 																https://www.lamudi.com.ph/events/
 															</a>
 														</li>
 														<li>
-															<a href="https://www.lamudi.com.ph/housing_fair/">
+															<a href="https://www.lamudi.com.ph/housing_fair/" target="_blank">
 																https://www.lamudi.com.ph/housing_fair/
 															</a>
 														</li>
 														<li>
-															<a href="https://www.lamudi.com.ph/outlook-real-estate-market-trends-2017/">
+															<a href="https://www.lamudi.com.ph/outlook-real-estate-market-trends-2017/" target="_blank">
 																https://www.lamudi.com.ph/outlook-real-estate-market-trends-2017/
 															</a>
 														</li>
@@ -58,27 +58,27 @@ class lamudiModal extends Component {
 															</a>
 														</li>
 														<li>
-															<a href="https://www.lamudi.com.ph/journal/how-to-apply-for-a-pag-ibig-housing-loan/">
+															<a href="https://www.lamudi.com.ph/journal/how-to-apply-for-a-pag-ibig-housing-loan/" target="_blank">
 																https://www.lamudi.com.ph/journal/how-to-apply-for-a-pag-ibig-housing-loan/
 															</a>
 														</li>
 														<li>
-															<a href="https://www.lamudi.com.ph/comprehensive-guide-pagibig-housing-loan/">
+															<a href="https://www.lamudi.com.ph/comprehensive-guide-pagibig-housing-loan/" target="_blank">
 																https://www.lamudi.com.ph/comprehensive-guide-pagibig-housing-loan/
 															</a>
 														</li>
 														<li>
-															<a href="https://www.lamudi.com.ph/complete-condo-buying-guide/">
+															<a href="https://www.lamudi.com.ph/complete-condo-buying-guide/" target="_blank">
 																https://www.lamudi.com.ph/complete-condo-buying-guide/
 															</a>
 														</li>
 														<li>
-															<a href="https://www.lamudi.co.id/panduan-area-properti-kota-bandung/">
+															<a href="https://www.lamudi.co.id/panduan-area-properti-kota-bandung/" target="_blank">
 																https://www.lamudi.co.id/panduan-area-properti-kota-bandung/
 															</a>
 														</li>
 														<li>
-															<a href="https://www.lamudi.co.id/panduan-area-properti/">
+															<a href="https://www.lamudi.co.id/panduan-area-properti/" target="_blank">
 																https://www.lamudi.co.id/panduan-area-properti/
 															</a>
 														</li>
