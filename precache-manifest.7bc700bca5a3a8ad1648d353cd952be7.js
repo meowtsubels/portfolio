@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "afb11c4c7158ec4eb09816fa5341f8a3",
-    "url": "/portfolio/static/media/myprop-nl-2.afb11c4c.png"
+    "revision": "08cfa33e119ecde4302f773bd6d695f0",
+    "url": "/portfolio/static/media/myprop-nl-4.08cfa33e.png"
   },
   {
-    "revision": "e5f8c6f895a3459d379b",
+    "revision": "010823d921a98b1d879a",
     "url": "/portfolio/static/css/main.5091ac2a.chunk.css"
   },
   {
@@ -88,16 +88,16 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/myprop-nl-1.2a6567ff.png"
   },
   {
-    "revision": "e5f8c6f895a3459d379b",
-    "url": "/portfolio/static/js/main.e5f8c6f8.chunk.js"
+    "revision": "afb11c4c7158ec4eb09816fa5341f8a3",
+    "url": "/portfolio/static/media/myprop-nl-2.afb11c4c.png"
   },
   {
     "revision": "e52fd2f99346f97fb933556d390ef91b",
     "url": "/portfolio/static/media/myprop-nl-3.e52fd2f9.png"
   },
   {
-    "revision": "08cfa33e119ecde4302f773bd6d695f0",
-    "url": "/portfolio/static/media/myprop-nl-4.08cfa33e.png"
+    "revision": "010823d921a98b1d879a",
+    "url": "/portfolio/static/js/main.010823d9.chunk.js"
   },
   {
     "revision": "b848e71d2f04252baec2e376c3dd9166",
@@ -152,6 +152,18 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/simpliphpy.e629e39f.jpg"
   },
   {
+    "revision": "2b6f7506889d6a6eef875bba58f303b5",
+    "url": "/portfolio/static/media/globe-1.2b6f7506.jpg"
+  },
+  {
+    "revision": "34fae35a1b8a8897887c8f22fdd7f9ed",
+    "url": "/portfolio/static/media/globe-2.34fae35a.jpg"
+  },
+  {
+    "revision": "72f37ca7f3c873180bb97aa2d8b2a51f",
+    "url": "/portfolio/static/media/globe-3.72f37ca7.jpg"
+  },
+  {
     "revision": "a57b9afec8d2591e8e1193a0ced1de28",
     "url": "/portfolio/static/media/propertypro.a57b9afe.svg"
   },
@@ -176,7 +188,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/globe.54190f7a.svg"
   },
   {
-    "revision": "89a57bb7c3920bdf8eae89105653c9aa",
+    "revision": "207ee94b83ed76be5b1e739de43c2dbb",
     "url": "/portfolio/index.html"
   }
 ];
