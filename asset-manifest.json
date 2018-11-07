@@ -1,7 +1,7 @@
 {
   "main.css": "/portfolio/static/css/main.5091ac2a.chunk.css",
-  "main.js": "/portfolio/static/js/main.010823d9.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.010823d9.chunk.js.map",
+  "main.js": "/portfolio/static/js/main.6987759d.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.6987759d.chunk.js.map",
   "static/js/1.56377a75.chunk.js": "/portfolio/static/js/1.56377a75.chunk.js",
   "static/js/1.56377a75.chunk.js.map": "/portfolio/static/js/1.56377a75.chunk.js.map",
   "runtime~main.js": "/portfolio/static/js/runtime~main.ee2a1003.js",
@@ -45,12 +45,12 @@
   "static/media/globe-3.jpg": "/portfolio/static/media/globe-3.72f37ca7.jpg",
   "static/media/propertypro.svg": "/portfolio/static/media/propertypro.a57b9afe.svg",
   "static/media/lamudi.svg": "/portfolio/static/media/lamudi.b7759b0c.svg",
-  "static/media/myproperty.svg": "/portfolio/static/media/myproperty.b9884889.svg",
+  "static/media/myproperty.svg": "/portfolio/static/media/myproperty.000de58a.svg",
   "static/media/xend.svg": "/portfolio/static/media/xend.c92ee7f3.svg",
   "static/media/simpliphpy.svg": "/portfolio/static/media/simpliphpy.099c8318.svg",
-  "static/media/globe.svg": "/portfolio/static/media/globe.54190f7a.svg",
+  "static/media/globe.svg": "/portfolio/static/media/globe.56994c61.svg",
   "static/css/main.5091ac2a.chunk.css.map": "/portfolio/static/css/main.5091ac2a.chunk.css.map",
   "index.html": "/portfolio/index.html",
-  "precache-manifest.7bc700bca5a3a8ad1648d353cd952be7.js": "/portfolio/precache-manifest.7bc700bca5a3a8ad1648d353cd952be7.js",
+  "precache-manifest.2e0415c99e3c858129afa8795ed87a65.js": "/portfolio/precache-manifest.2e0415c99e3c858129afa8795ed87a65.js",
   "service-worker.js": "/portfolio/service-worker.js"
 }
