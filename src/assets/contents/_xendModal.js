@@ -19,6 +19,9 @@ class xendModal extends Component {
 							<div className="modal-body">
 								<div className="container">
 									<div className="row">
+									<p>
+										<b>Xend</b> aims to help entrepreneurs and businesses thrive through innovative and affordable logistics services that are reliable, secure, convenient and easy, while providing an unparalleled customer experience.
+									</p>
 										<div className="col">
 											<img className={"img-fluid" + " " + "pb-5"} src={Images.xend.xend1x}/>
 											<img className={"img-fluid" + " " + "pb-5"} src={Images.xend.xend2x}/>

@@ -128,6 +128,22 @@ section.hero {
 .modals > .globeModal .modal-back {
   width: 16px; }
 
+.modals > .propertyProModal p,
+.modals > .lamudiModal p,
+.modals > .mypropertyModal p,
+.modals > .xendModal p,
+.modals > .simpliphpyModal p,
+.modals > .globeModal p {
+  padding: 1.5em; }
+
+.modals > .propertyProModal h5,
+.modals > .lamudiModal h5,
+.modals > .mypropertyModal h5,
+.modals > .xendModal h5,
+.modals > .simpliphpyModal h5,
+.modals > .globeModal h5 {
+  font-weight: 700; }
+
 .modals > .propertyProModal .modal-body img {
   padding: 1.5em;
   max-width: 100%;

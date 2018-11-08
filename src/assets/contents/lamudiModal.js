@@ -19,6 +19,9 @@ class lamudiModal extends Component {
 							<div className="modal-body">
 								<div className="container">
 									<div className="row">
+									<p>
+														<b>Lamudi</b> offer sellers, buyers, and renters a secure and easy-to-use platform to find or list properties online. By connecting developers, real estate agents, and private owners with property seekers.
+													</p>
 										<div className={"col-md-6" + " " + "text-sm-center"}>
 											<img className="img-fluid" src={Images.lamudi.lmd1} />
 										</div>

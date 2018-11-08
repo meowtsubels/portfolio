@@ -20,6 +20,12 @@ class propertyproModal extends Component {
 								<div className="container">
 									<div className="row">
 										<div className="col">
+											<p>
+											<b>PropertyPRO</b> is an application that facilitates real estate agents and property brokers to sell premium property projects from well-known developers in Indonesia. 
+											<br/><br/>
+											PropertyPRO provides information and tips on selling professional property to property agents. Project details, available units, price lists, brochures, commissions and bonuses, all in one application are in your hand. 
+											</p>
+											
 											<img src={Images.propertypro.pp1} />
 											<img src={Images.propertypro.pp2} />
 											<img src={Images.propertypro.pp3} />

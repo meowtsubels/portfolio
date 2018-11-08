@@ -19,6 +19,9 @@ class mypropertyModal extends Component {
 							<div className="modal-body">
 								<div className="container">
 									<div className="row">
+									<p>
+									The premier Philippines real estate portal with a wide database of properties for sale, rent, pre-sell and the latest real estate news and information.
+									</p>
 										<div className={"col-md-6" + " " + "text-sm-center"}>
 											<img className={"img-fluid" + " " + "pb-5"} src={Images.myproperty.myprop1} />
 											<img className={"img-fluid" + " " + "pb-5"} src={Images.myproperty.myprop4} />

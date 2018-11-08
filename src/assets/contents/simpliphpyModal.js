@@ -19,6 +19,14 @@ class simpliphpyModal extends Component {
 							<div className="modal-body">
 								<div className="container">
 									<div className="row">
+									<p>
+									<b>Simpliphpy Inc.</b> is a web and mobile development company. With over 10 years of collective
+									development and consulting expertise on different platforms and programming languages.
+									Our team has since launched and delivered a multitude of high profile and complex web application/Web
+									Services using any of the following PHP, Ruby on Rails, ASP/C# .NET and Django-Python, mobile apps
+									(IOS, Android, Windows 8 Mobile & Desktop/Tablet) and platforms for major companies, government
+									institutions and telecommunication companies.
+									</p>
 										<div className="col">
 											<img className={"img-fluid" + " " + "pb-5"} src={Images.simpliphpy.simph} />
 										</div>
