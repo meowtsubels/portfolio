@@ -1,27 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "08cfa33e119ecde4302f773bd6d695f0",
-    "url": "/portfolio/static/media/myprop-nl-4.08cfa33e.png"
+    "revision": "71f1566ee2152296dfcd",
+    "url": "/portfolio/static/css/main.446b0a25.chunk.css"
   },
   {
-    "revision": "8092b0bd77b056b23bd7",
-    "url": "/portfolio/static/css/main.1b8678c8.chunk.css"
+    "revision": "71f1566ee2152296dfcd",
+    "url": "/portfolio/static/js/main.821dbe9f.chunk.js"
   },
   {
-    "revision": "c1cf138b4456d18f37f7",
-    "url": "/portfolio/static/js/1.c1cf138b.chunk.js"
+    "revision": "53ebc025fca807d4dbea",
+    "url": "/portfolio/static/js/runtime~main.f308c8e6.js"
   },
   {
-    "revision": "ee2a100325fd284f0097",
-    "url": "/portfolio/static/js/runtime~main.ee2a1003.js"
+    "revision": "f1543c76d93e80831911",
+    "url": "/portfolio/static/js/2.b19cd8aa.chunk.js"
   },
   {
-    "revision": "7d6d576992b056522309f37e42fc99e2",
-    "url": "/portfolio/static/media/temp-logo.7d6d5769.svg"
+    "revision": "01e1513783d2dd5fa78da9667532bd6d",
+    "url": "/portfolio/static/media/temp-logo.01e15137.svg"
   },
   {
-    "revision": "6c9efe0c8c1fb630cd48d0381ece4297",
-    "url": "/portfolio/static/media/left-arrow.6c9efe0c.svg"
+    "revision": "f722c6cc94a11d47b6c829c00dff079f",
+    "url": "/portfolio/static/media/left-arrow.f722c6cc.svg"
   },
   {
     "revision": "35b1c1ea20a13d5e12702e501fc9f924",
@@ -96,8 +96,8 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/myprop-nl-3.e52fd2f9.png"
   },
   {
-    "revision": "8092b0bd77b056b23bd7",
-    "url": "/portfolio/static/js/main.8092b0bd.chunk.js"
+    "revision": "08cfa33e119ecde4302f773bd6d695f0",
+    "url": "/portfolio/static/media/myprop-nl-4.08cfa33e.png"
   },
   {
     "revision": "b848e71d2f04252baec2e376c3dd9166",
@@ -168,27 +168,27 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/propertypro.a57b9afe.svg"
   },
   {
-    "revision": "b7759b0cfdf5ba38e7dca9595d77a9ea",
-    "url": "/portfolio/static/media/lamudi.b7759b0c.svg"
+    "revision": "cd3be8adbcf49afb3674c802729af955",
+    "url": "/portfolio/static/media/lamudi.cd3be8ad.svg"
   },
   {
-    "revision": "63d3508ac4921eeb147a6a719dbb1bce",
-    "url": "/portfolio/static/media/myproperty.63d3508a.svg"
+    "revision": "000de58ace2bba83e06015cdfd73d611",
+    "url": "/portfolio/static/media/myproperty.000de58a.svg"
   },
   {
-    "revision": "c92ee7f3feb8e19a635e3bba159067aa",
-    "url": "/portfolio/static/media/xend.c92ee7f3.svg"
+    "revision": "a0f32bf9e024aab2e6cdfc7593dcf144",
+    "url": "/portfolio/static/media/xend.a0f32bf9.svg"
   },
   {
-    "revision": "099c8318cad87eb3fec09b590d7a482d",
-    "url": "/portfolio/static/media/simpliphpy.099c8318.svg"
+    "revision": "24c77138558b3d560dcfb48484fd9ca2",
+    "url": "/portfolio/static/media/simpliphpy.24c77138.svg"
   },
   {
-    "revision": "a9d63acedf12591307a5faa16ca728bb",
-    "url": "/portfolio/static/media/globe.a9d63ace.svg"
+    "revision": "56994c61d2dd9fc4848e9fc6e483894d",
+    "url": "/portfolio/static/media/globe.56994c61.svg"
   },
   {
-    "revision": "2bac91da968b9629d9b806603018755d",
+    "revision": "7ff6886bc54079e6ca5e0c16d3555b02",
     "url": "/portfolio/index.html"
   }
 ];
