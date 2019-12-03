@@ -23,19 +23,18 @@ class xendModal extends Component {
 										<b>Xend</b> aims to help entrepreneurs and businesses thrive through innovative and affordable logistics services that are reliable, secure, convenient and easy, while providing an unparalleled customer experience.
 									</p>
 										<div className="col">
-											<img className={"img-fluid" + " " + "pb-5"} src={Images.xend.xend1x}/>
-											<img className={"img-fluid" + " " + "pb-5"} src={Images.xend.xend2x}/>
-											<img className={"img-fluid" + " " + "pb-5"} src={Images.xend.xend3x}/>
-											<img className={"img-fluid" + " " + "pb-5"} src={Images.xend.xend4x}/>
-											<img className={"img-fluid" + " " + "pb-5"} src={Images.xend.xend5x}/>
-											<img className={"img-fluid" + " " + "pb-5"} src={Images.xend.xend6x}/>
-											<img className={"img-fluid" + " " + "pb-5"} src={Images.xend.xend7x}/>
-											<img className={"img-fluid" + " " + "pb-5"} src={Images.xend.xend8x}/>
-
-											<img className={"img-fluid" + " " + "pb-5"} src={Images.xend.xend1n}/>
-											<img className={"img-fluid" + " " + "pb-5"} src={Images.xend.xend2n}/>
-											<img className={"img-fluid" + " " + "pb-5"} src={Images.xend.xend3n}/>
-											<img className={"img-fluid" + " " + "pb-5"} src={Images.xend.xend4n}/>
+											<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.xend.xend1x}/>
+											<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.xend.xend2x}/>
+											<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.xend.xend3x}/>
+											<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.xend.xend4x}/>
+											<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.xend.xend5x}/>
+											<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.xend.xend6x}/>
+											<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.xend.xend7x}/>
+											<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.xend.xend8x}/>
+											<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.xend.xend1n}/>
+											<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.xend.xend2n}/>
+											<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.xend.xend3n}/>
+											<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.xend.xend4n}/>
 										</div>
 									</div>
 								</div>

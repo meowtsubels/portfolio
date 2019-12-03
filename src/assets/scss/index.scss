@@ -4,6 +4,7 @@ $bluish: #f6f9fc;
 $blackish: #070707;
 $greyish: #58595a;
 $lightgrey: #dde0e2;
+$white : #fff;
 
 *, html {
   font-family: 'Roboto', sans-serif;
@@ -58,7 +59,7 @@ $lightgrey: #dde0e2;
   border-radius: 50%;
   background-color: $blackish;
   padding: 10px;
-  color: #fff;
+  color: $white;
 }
 
 .z-index {
@@ -121,12 +122,20 @@ section.hero {
     font-weight: 100;
   }
 }
+
+.imgDepth {
+  box-shadow: 1px 1px 99px rgba(0,0,0, 0.1);
+  border: 1px solid #eee;
+}
+
 .modals > .propertyProModal,
 .modals > .lamudiModal,
 .modals > .mypropertyModal,
 .modals > .xendModal,
 .modals > .simpliphpyModal,
-.modals > .globeModal {
+.modals > .globeModal,
+.modals > .acquireModal,
+.modals > .jgsummitModal {
   .modal-body {
     padding-bottom: 3em;
   }

@@ -20,19 +20,19 @@ class lamudiModal extends Component {
 								<div className="container">
 									<div className="row">
 									<p>
-														<b>Lamudi</b> offer sellers, buyers, and renters a secure and easy-to-use platform to find or list properties online. By connecting developers, real estate agents, and private owners with property seekers.
-													</p>
+										<b>Lamudi</b> offer sellers, buyers, and renters a secure and easy-to-use platform to find or list properties online. By connecting developers, real estate agents, and private owners with property seekers.
+										</p>
 										<div className={"col-md-6" + " " + "text-sm-center"}>
-											<img className="img-fluid" src={Images.lamudi.lmd1} />
+											<img className={"img-fluid" + " " + "imgDepth"} src={Images.lamudi.lmd1} />
 										</div>
 										<div className={"col-md-6" + " " + "text-sm-center"}>
-											<img className={"img-fluid" + " " + "pb-5"} src={Images.lamudi.lmd2}/>
+											<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.lamudi.lmd2}/>
 											<div className="row">
 												<div className="col">
-													<img className={"img-fluid" + " " + "pb-5"} src={Images.lamudi.mag1}/>
-													<img className={"img-fluid" + " " + "pb-5"} src={Images.lamudi.mag2}/>
-													<img className={"img-fluid" + " " + "pb-5"} src={Images.lamudi.mag3}/>
-													<img className={"img-fluid" + " " + "pb-5"} src={Images.lamudi.teaser1}/>
+													<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.lamudi.mag1}/>
+													<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.lamudi.mag2}/>
+													<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.lamudi.mag3}/>
+													<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.lamudi.teaser1}/>
 													{/* insert links here */}	
 													<ul>
 														<li>

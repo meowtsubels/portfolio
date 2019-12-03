@@ -28,7 +28,7 @@ class simpliphpyModal extends Component {
 									institutions and telecommunication companies.
 									</p>
 										<div className="col">
-											<img className={"img-fluid" + " " + "pb-5"} src={Images.simpliphpy.simph} />
+											<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.simpliphpy.simph} />
 										</div>
 									</div>
 								</div>

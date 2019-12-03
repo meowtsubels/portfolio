@@ -23,9 +23,9 @@ class globeModal extends Component {
 										Globe Telecom, commonly shortened as <b>Globe</b>, is a major provider of telecommunications services in the Philippines. It operates one of the largest mobile, fixed line, and broadband networks in the country.
 									</p>
 										<div className={"col" + " " + "text-sm-center"}>
-											<img className={"img-fluid" + " " + "pb-5"} src={Images.globe.g1}/>
-											<img className={"img-fluid" + " " + "pb-5"} src={Images.globe.g2}/>
-											<img className={"img-fluid" + " " + "pb-5"} src={Images.globe.g3}/>
+											<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.globe.g1}/>
+											<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.globe.g2}/>
+											<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.globe.g3}/>
 										</div>
 									</div>
 								</div>

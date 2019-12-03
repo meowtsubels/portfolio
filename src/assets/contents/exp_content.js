@@ -1,5 +1,15 @@
 const exp = [
 	{
+		position: 'user interface designer',
+		date: '(jul 2019 - present)',
+		company: 'jg summit holdings inc'
+	},
+	{
+		position: 'web designer',
+		date: '(mar 2019 - jun 2019)',
+		company: 'acquire bpo'
+	},
+	{
 		position: 'web designer',
 		date: '(may 2017 - sep 2018)',
 		company: 'lamudi philippines'

@@ -1,4 +1,14 @@
 const craft = [
+	// {
+	// 	image: require('../images/propertypro.svg'),
+	// 	link: '#jg',
+	// 	style: {background: '#000'},
+	// },
+	{
+		image: require('../images/acquire.svg'),
+		link: '#acquire',
+		style: {background: '#2781C3'},
+	},
 	{
 		image: require('../images/propertypro.svg'),
 		link: '#property_pro',

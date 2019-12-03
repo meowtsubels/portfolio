@@ -25,7 +25,6 @@ class propertyproModal extends Component {
 											<br/><br/>
 											PropertyPRO provides information and tips on selling professional property to property agents. Project details, available units, price lists, brochures, commissions and bonuses, all in one application are in your hand. 
 											</p>
-											
 											<img src={Images.propertypro.pp1} />
 											<img src={Images.propertypro.pp2} />
 											<img src={Images.propertypro.pp3} />

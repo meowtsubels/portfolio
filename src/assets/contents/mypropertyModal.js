@@ -23,12 +23,12 @@ class mypropertyModal extends Component {
 									The premier Philippines real estate portal with a wide database of properties for sale, rent, pre-sell and the latest real estate news and information.
 									</p>
 										<div className={"col-md-6" + " " + "text-sm-center"}>
-											<img className={"img-fluid" + " " + "pb-5"} src={Images.myproperty.myprop1} />
-											<img className={"img-fluid" + " " + "pb-5"} src={Images.myproperty.myprop4} />
+											<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.myproperty.myprop1} />
+											<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.myproperty.myprop4} />
 										</div>
 										<div className={"col-md-6" + " " + "text-sm-center"}>
-											<img className={"img-fluid" + " " + "pb-5"} src={Images.myproperty.myprop2} />
-											<img className={"img-fluid" + " " + "pb-5"} src={Images.myproperty.myprop3} />
+											<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.myproperty.myprop2} />
+											<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.myproperty.myprop3} />
 										</div>
 									</div>
 								</div>

@@ -9,7 +9,6 @@ class Craft extends Component {
 					<div className="row">
 						{this.props.craft.map((craft, index) => {
 							return (
-								
 								<CraftCard
 										craftLogo={craft.image}
 										craftLink={craft.link}

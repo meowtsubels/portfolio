@@ -1,5 +1,11 @@
 const images = {
 	backIcon: require('./left-arrow.svg'),
+	acquire: {
+		acq1: require('../images/acq-event.png'),
+		acq2: require('../images/acq-1.png'),
+		acq3: require('../images/acq-2.png'),
+		acq4: require('../images/acq-3.png'),
+	},
 	propertypro: {
 		pp1: require('../images/pp-1.png'),
 		pp2: require('../images/pp-2.png'),

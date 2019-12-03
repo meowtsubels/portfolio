@@ -1,4 +1,6 @@
 import React from 'react';
+// import JGModal from '../assets/contents/jgsummitModal';
+import AcquireModal from '../assets/contents/acquireModal';
 import PropertyProModal from '../assets/contents/propertyproModal';
 import LamudiModal from '../assets/contents/lamudiModal';
 import MyPropertyModal from '../assets/contents/mypropertyModal';
@@ -10,6 +12,8 @@ export default class ModalsCraft extends React.Component {
 	render() {
 		return (
 			<div class="modals">
+				{/* <JGModal/> */}
+				<AcquireModal/>
 				<PropertyProModal />
 				<LamudiModal />
 				<MyPropertyModal />
