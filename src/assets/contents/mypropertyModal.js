@@ -10,9 +10,9 @@ class mypropertyModal extends Component {
 						<div className="modal-content">
 							<div className="modal-header">
 								<h5 className="modal-title w-100 text-center" id="exampleModalLabel">My Property</h5>
-								<button type="button" className={"close" + " " + "position-absolute"} data-dismiss="modal" aria-label="Close">
+								<button type="button" className="close position-absolute" data-dismiss="modal" aria-label="Close">
 									<span aria-hidden="true">
-										<img className="modal-back" src={Images.backIcon} />
+										<img className="modal-back" alt="" src={Images.backIcon} />
 									</span>
 								</button>
 							</div>
@@ -22,13 +22,13 @@ class mypropertyModal extends Component {
 									<p>
 									The premier Philippines real estate portal with a wide database of properties for sale, rent, pre-sell and the latest real estate news and information.
 									</p>
-										<div className={"col-md-6" + " " + "text-sm-center"}>
-											<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.myproperty.myprop1} />
-											<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.myproperty.myprop4} />
+										<div className="col-md-6 text-sm-center">
+											<img className="img-fluid mb-5 imgDepth" alt="newsletter 1" src={Images.myproperty.myprop1} />
+											<img className="img-fluid mb-5 imgDepth" alt="newsletter 2" src={Images.myproperty.myprop4} />
 										</div>
-										<div className={"col-md-6" + " " + "text-sm-center"}>
-											<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.myproperty.myprop2} />
-											<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.myproperty.myprop3} />
+										<div className="col-md-6 text-sm-center">
+											<img className="img-fluid mb-5 imgDepth" alt="newsletter 3" src={Images.myproperty.myprop2} />
+											<img className="img-fluid mb-5 imgDepth" alt="newsletter 4" src={Images.myproperty.myprop3} />
 										</div>
 									</div>
 								</div>

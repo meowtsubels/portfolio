@@ -10,9 +10,9 @@ class simpliphpyModal extends Component {
 						<div className="modal-content">
 							<div className="modal-header">
 								<h5 className="modal-title w-100 text-center" id="exampleModalLabel">Simpliphpy</h5>
-								<button type="button" className={"close" + " " + "position-absolute"} data-dismiss="modal" aria-label="Close">
+								<button type="button" className="close position-absolute" data-dismiss="modal" aria-label="Close">
 									<span aria-hidden="true">
-										<img className="modal-back" src={Images.backIcon} />
+										<img className="modal-back" alt="" src={Images.backIcon} />
 									</span>
 								</button>
 							</div>
@@ -28,7 +28,7 @@ class simpliphpyModal extends Component {
 									institutions and telecommunication companies.
 									</p>
 										<div className="col">
-											<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.simpliphpy.simph} />
+											<img className="img-fluid mb-5 imgDepth" src={Images.simpliphpy.simph} />
 										</div>
 									</div>
 								</div>

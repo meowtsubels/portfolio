@@ -10,9 +10,9 @@ class lamudiModal extends Component {
 						<div className="modal-content">
 							<div className="modal-header">
 								<h5 className="modal-title w-100 text-center" id="exampleModalLabel"> Lamudi </h5>
-								<button type="button" className={"close" + " " + "position-absolute"} data-dismiss="modal" aria-label="Close">
+								<button type="button" className="close position-absolute" data-dismiss="modal" aria-label="Close">
 									<span aria-hidden="true">
-										<img className="modal-back" src={Images.backIcon} />
+										<img className="modal-back" alt="" src={Images.backIcon} />
 									</span>
 								</button>
 							</div>
@@ -22,17 +22,17 @@ class lamudiModal extends Component {
 									<p>
 										<b>Lamudi</b> offer sellers, buyers, and renters a secure and easy-to-use platform to find or list properties online. By connecting developers, real estate agents, and private owners with property seekers.
 										</p>
-										<div className={"col-md-6" + " " + "text-sm-center"}>
-											<img className={"img-fluid" + " " + "imgDepth"} src={Images.lamudi.lmd1} />
+										<div className="col-md-6 text-sm-center">
+											<img className="img-fluid imgDepth" alt="newsletter 1" src={Images.lamudi.lmd1} />
 										</div>
-										<div className={"col-md-6" + " " + "text-sm-center"}>
-											<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.lamudi.lmd2}/>
+										<div className="col-md-6 text-sm-center">
+											<img className="img-fluid mb-5 imgDepth" alt="newsletter 2" src={Images.lamudi.lmd2}/>
 											<div className="row">
 												<div className="col">
-													<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.lamudi.mag1}/>
-													<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.lamudi.mag2}/>
-													<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.lamudi.mag3}/>
-													<img className={"img-fluid" + " " + "mb-5" + " " + "imgDepth"} src={Images.lamudi.teaser1}/>
+													<img className="img-fluid mb-5 imgDepth" alt="magazine content 1" src={Images.lamudi.mag1}/>
+													<img className="img-fluid mb-5 imgDepth" alt="magazine content 2" src={Images.lamudi.mag2}/>
+													<img className="img-fluid mb-5 imgDepth" alt="magazine content 3" src={Images.lamudi.mag3}/>
+													<img className="img-fluid mb-5 imgDepth" alt="magazine teaser" src={Images.lamudi.teaser1}/>
 													{/* insert links here */}	
 													<ul>
 														<li>

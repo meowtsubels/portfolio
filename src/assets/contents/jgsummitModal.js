@@ -12,7 +12,7 @@ class jgsummitModal extends Component {
 								<h5 className="modal-title w-100 text-center" id="acquireModal">Acquire</h5>
 								<button type="button" className={"close" + " " + "position-absolute"} data-dismiss="modal" aria-label="Close">
 									<span aria-hidden="true">
-										<img className="modal-back" src={Images.backIcon} />
+										<img className="modal-back" alt="" src={Images.backIcon} />
 									</span>
 								</button>
 							</div>

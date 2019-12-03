@@ -11,7 +11,7 @@ import GlobeModal from '../assets/contents/globeModal';
 export default class ModalsCraft extends React.Component {
 	render() {
 		return (
-			<div class="modals">
+			<div className="modals">
 				{/* <JGModal/> */}
 				<AcquireModal/>
 				<PropertyProModal />
